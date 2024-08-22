@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="journal.css">
+    <title>J1089</title>
+    <body>
+      <p><a href="..index.html"><button><span>Go Back</span></button></a></p>
+      <h2>Name: Darrion Nguyen</h2>
+</html>

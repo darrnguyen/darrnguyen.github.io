@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+}
+
+button {
+    display: inline-block;
+    padding: 15px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color: firebrick;
+    transition: all 0.4;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    transition-duration: 0.5;
+}
+
+button:hover {
+    background-color: maroon;
+    color: white;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+h3 {
+    font-size: 30px;
+    color: maroon;
+}
+h4 {
+    font-size: 25px;
+    color:black;
+}
+p {
+    font-size: 20px;
+    color:navy;
+}
+<!-- <link rel="stylesheet" href="mystyle.css"> -->

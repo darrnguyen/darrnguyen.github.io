@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="mystyle.css">
+  </head>
+  <body>
+    <ul>
+      <a href="https://www.codermerlin.com/users/darrion-nguyen/Digital%20Portfolio/CS-I/index.html">< Go Back <</a>
+														 </ul>
+    <title>J1013</title>
+    <h2>Name: Darrion Nguyen</h2>
+    <h3>Journal: W1013
+      <br>
+      Date: 17-Sept-2022
+      <br>
+      I recieved assistance from no one.
+      <br>
+      I assisted no one.</h3>
+    <h4>Why is one of the symbols used for exclusive disjunction =/?
+      <p>This is because the three lines indicates that value A and B or identical and the dash through it means not, so the symbol means not identical, which is what a xor function is. It is true in all cases except when A is the same value as B.
+</body>
